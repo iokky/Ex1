@@ -1,4 +1,4 @@
-##Solution Description
+## Solution Description
 
 ### Description: This program checks in an array of type "string", the presence of elements that satisfy the condition (x <= 3)
 
